@@ -1,6 +1,6 @@
 # Urban Informatics and Data Visualization (CYPLAN255)
 Course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2024
-
+test
 
 ## Getting started
 - Please fill out the [Pre-Semester Survey](https://forms.gle/2x8Bw913GpxukYwFA)!

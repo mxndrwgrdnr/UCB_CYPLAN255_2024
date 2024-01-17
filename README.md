@@ -14,7 +14,7 @@ Spring 2024
 | | |
 |:--|:--|
 |**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br> Office hours (Zoom): Mon/Tues 5-6 pm -- sign-up [here](https://calendly.com/maxgardner/office-hours-individual)|
-| **GSI**| Meiqing Li / [meiqing@berkeley.edu](mailto:irenef@berkeley.edu) <br> Office hours (Zoom): Thurs 7:30-8:30 pm -- sign-up [here](https://calendly.com/meiqingli/office-hour)) <br> Office hours (IRL): TBD|
+| **GSI**| Meiqing Li / [meiqing@berkeley.edu](mailto:irenef@berkeley.edu) <br> Office hours (Zoom): Thurs 7:30-8:30 pm -- sign-up [here](https://calendly.com/meiqingli/office-hour) <br> Office hours (IRL): TBD|
 |**Details**| Meeting times: Mon/Wed 9:30-11am (&quot;Berkeley time&quot;) <br> Meeting location: 102 Bauer Wurster Auditorium / [Zoom](https://berkeley.zoom.us/j/97650379315?pwd=ZVRGRmttTUYwdHlObmZhUzNNZWxEQT09) (as needed) <br> Course website: [https://bcourses.berkeley.edu/courses/1532651](https://bcourses.berkeley.edu/courses/1532651) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%) <br> Letter grade scale: 0-59% F, 60-69% D, 70-79% C, 80-89% B, 90-100% A
 |
 
@@ -33,13 +33,6 @@ We&#39;ll write code in Jupyter notebooks using the Anaconda Python distribution
 You should plan to bring a laptop\*\* to all class sessions.
 
 \*\*NOTE TO WINDOWS USERS: Most exercises and lectures will be OS-agnostic, but command-line tools will be demonstrated in a Unix-like terminal. Windows users can use the Windows command prompt if they choose, but instructor support will be limited. Instead, I recommend installing one of the following to gain access to a Unix-like shell: [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about), [Cygwin](https://www.cygwin.com/), [Git Bash](https://gitforwindows.org/), or [PyCharm](https://www.jetbrains.com/pycharm/download/).
-
-### Campus Resources Related to this Course
-[Join the Course Slack Channel](https://join.slack.com/t/cp255-spring22/shared_invite/zt-11qxr2cc7-OdkKFxB3d6SpA97EJlOF2A)
-
-D-Lab:
-- [Workshops](https://dlab.berkeley.edu/training/upcoming-workshops) on Python fundamentals, geospatial analysis, intro to bash...etc.
-- [Consulting tickets (if you have specific questions)](https://dlab.berkeley.edu/consulting)
 
 ### Assignments (15 pts)
 
@@ -140,13 +133,13 @@ The following books and websites may be helpful resources, and we will draw mate
 
 The topics covered by this course are organized into the following seven (7) modules:
 
-1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/CYPLAN255#module-1-fundamentals-of-programming)
-2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/CYPLAN255#module-2-intro-to-data-analysis-in-python)
-3. [Intro to Data Visualization](https://github.com/mxndrwgrdnr/CYPLAN255#module-3-intro-to-data-visualization)
-4. [APIs + Open Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-4-open-data-and-apis)
-5. [Working with Geospatial Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-5-working-with-geospatial-data)
-6. [Visualizing Spatial Data](https://github.com/mxndrwgrdnr/CYPLAN255#module-6-visualizing-geospatial-data)
-7. [Statistical Analysis + Machine Learning](https://github.com/mxndrwgrdnr/CYPLAN255#module-7-statistical-analysis--machine-learning)
+1. [Fundamentals of Programming](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-1-fundamentals-of-programming)
+2. [Intro to Data Analysis in Python](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-2-intro-to-data-analysis-in-python)
+3. [Intro to Data Visualization](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-3-intro-to-data-visualization)
+4. [APIs + Open Data](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-4-open-data-and-apis)
+5. [Working with Geospatial Data](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-5-working-with-geospatial-data)
+6. [Visualizing Spatial Data](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-6-visualizing-geospatial-data)
+7. [Statistical Analysis + Machine Learning](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#module-7-statistical-analysis--machine-learning)
 
 ----
 

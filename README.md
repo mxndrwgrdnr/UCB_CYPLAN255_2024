@@ -347,7 +347,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://www.axismaps.com/guide/should-a-map-be-interactive](https://www.axismaps.com/guide/should-a-map-be-interactive)
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
-    - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
+    - [https://shaunastbury.com/creating-a-dot-density-map/](https://shaunastbury.com/creating-a-dot-density-map/)
 -----
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING

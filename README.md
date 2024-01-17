@@ -357,7 +357,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - Greenstone, M. & Gallagher, J. _Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program_. No. w11790. National Bureau of Economic Research, 2005. Available [here](https://www.nber.org/system/files/working_papers/w11790/w11790.pdf).
     - Lawrence, D.F. et al. _Stepping towards causation: Do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?_ Social Science and Medicine, 2007. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0277953607003139?casa_token=SaY3vv_H_2AAAAAA:uXwwx-tJd2Tp5cR5E89wXPQbtLXvNDudyf8mI00mzt_op2MbIJRc5MXjApn7-KCZnbHgsMUq)
     - Krizek, Kevin. _Residential Relocation and Changes in Urban Travel: Does Neighborhood-Scale Urban Form Matter?_ Journal of the American Planning Association, 2003. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/01944360308978019?casa_token=F6HCUW4F7DgAAAAA:oOXwalykvP1s5fvkwZBI7BtU8qP0YhE9uygGGYEThdbdBVLWE8m_NqMjSWd26cnYY4vgPpJ_Wz0).
-    - Gardner, Max. _The Effect of Rent Control on Eviction Rates: Causal Evidence from San Francisco_. Housing Policy Debate, 2022. 
+    - Gardner, Max. _The Effect of Rent Control on Eviction Rates: Causal Evidence from San Francisco_. Housing Policy Debate, 2022. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/10511482.2022.2099932?casa_token=cBZenfGAdZYAAAAA:FUNjQkjoFEQTXG2vzk5meFxRyU0_JHBH_fylqOOv9Q6uKdXGGPv8hsmwT0gNbVYT6JIKfAB5zww).
 
 - **Wed, Apr 10 -- Special Topics I: Visualizing Transit Data**
   - Guest speaker: TBD

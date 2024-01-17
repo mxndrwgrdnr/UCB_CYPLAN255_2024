@@ -362,14 +362,14 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Wed, Apr 10 -- Special Topics I: Visualizing Transit Data**
   - Guest speaker: TBD
   
-- **Mon, Apr 18 -- Special Topics II: Geospatial Data Activism**
+- **Mon, Apr 15 -- Special Topics II: Geospatial Data Activism**
   - Guest speaker: TBD
 
-- **Wed, Apr 20 -- Presentations I**
+- **Wed, Apr 17 -- Presentations I**
 
-- **Mon, Apr 25 -- Presentations II** 
+- **Mon, Apr 22 -- Presentations II** 
 
-- **Wed, Apr 27 -- Presentations III** 
+- **Wed, Apr 24 -- Presentations III** 
 
 _____
 

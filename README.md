@@ -213,7 +213,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Assignments
     - Assignment 2 released (due Tues, Feb 20)
 
-- **Mon, Feb 12 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
+- **Mon, Feb 12 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
 
   - Readings
     - Chapters 4, 5, and 6 of Wes McKinney&#39;s [Python for Data Analysis](https://github.com/wesm/pydata-book)

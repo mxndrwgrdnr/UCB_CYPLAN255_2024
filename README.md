@@ -210,7 +210,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - Official Python docs on [Classes](https://docs.python.org/3/tutorial/classes.html)
   - Assignments
-    - Assignment 2 released (due Tues, Feb 20)
+    - Assignment 2 released (due Tues, Feb 13)
 
 - **Mon, Feb 12 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
 
@@ -232,7 +232,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Exercises
     - Spend 2-3 hours working through notebooks 7 and 8 on your own
   - Assignments
-    - Assignment 3 released (due Tues, March 1)
+    - Assignment 3 released (due Tues, Feb 27)
 
 - **Wed, Feb 21 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
@@ -258,7 +258,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Wed, Feb 28 -- Intro to APIs:** What&#39;s in an API; performing queries; authentication; Socrata;
   - Assignments
-    - Project proposal assignment (Assignment 4) released (Due Sun, Mar 13) 
+    - Project proposal assignment (Assignment 4) released (due Sun, Mar 10) 
 
   - Readings
     - Red Hat guide to APIs: [here](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)

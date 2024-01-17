@@ -1,22 +1,23 @@
 # Urban Informatics and Data Visualization (CYPLAN255)
 Course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2024
 
+
 ## Getting started
 - Please fill out the [Pre-Semester Survey](https://forms.gle/2x8Bw913GpxukYwFA)!
 - Check out the [Wiki](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024/wiki)!
 - Skip to [class schedule](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024#topics--course-schedule)
 
 ## Syllabus
-Department of City and Regional Planning, UC Berkeley
-CYPLAN255: Urban Informatics and Data Visualization
+
+CYPLAN255: Urban Informatics and Data Visualization <br>
+Department of City and Regional Planning, UC Berkeley<br>
 Spring 2024
 
 | | |
 |:--|:--|
 |**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br> Office hours (Zoom): Mon/Tues 5-6 pm -- sign-up [here](https://calendly.com/maxgardner/office-hours-individual)|
 | **GSI**| Meiqing Li / [meiqing@berkeley.edu](mailto:irenef@berkeley.edu) <br> Office hours (Zoom): Thurs 7:30-8:30 pm -- sign-up [here](https://calendly.com/meiqingli/office-hour) <br> Office hours (IRL): TBD|
-|**Details**| Meeting times: Mon/Wed 9:30-11am (&quot;Berkeley time&quot;) <br> Meeting location: 102 Bauer Wurster Auditorium / [Zoom](https://berkeley.zoom.us/j/97650379315?pwd=ZVRGRmttTUYwdHlObmZhUzNNZWxEQT09) (as needed) <br> Course website: [https://bcourses.berkeley.edu/courses/1532651](https://bcourses.berkeley.edu/courses/1532651) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%) <br> Letter grade scale: 0-59% F, 60-69% D, 70-79% C, 80-89% B, 90-100% A
-|
+|**Details**| Meeting times: Mon/Wed 6-7:30 pm <br> Meeting location: [Zoom](https://berkeley.zoom.us/j/93655092809) <br> Course website: [https://bcourses.berkeley.edu/courses/1532651](https://bcourses.berkeley.edu/courses/1532651) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%) <br> Letter grade scale: 0-59% F, 60-69% D, 70-79% C, 80-89% B, 90-100% A|
 
 ### Overview
 
@@ -24,7 +25,9 @@ The goal of this course is to train students to analyze urban data, derive insig
 
 This is a &quot;hands-on&quot; course. It requires some tolerance for experimentation, self-directed trial and error, and an interest in learning to write code. If you are willing to roll up your sleeves and embrace some uncertainty, you&#39;ll learn the fundamentals of urban data analysis and visualization, and might discover an entirely new lens through which to study, plan, and design neighborhoods, cities, and regions.
 
- ### Course Materials and Attendance
+### Course Materials and Attendance
+
+Attendance will be recorded on Zoom. Students are granted two excused absences over the course of semester without affecting their attendance grade. Qualifying exceptions will be handled on a case-by-case basis.
 
 All required readings will be provided via bCourses or hyperlinks on this electronic syllabus. Lecture slides, example code, and demos/exercises will all be made available via GitHub.
 
@@ -55,11 +58,11 @@ Final projects will require harnessing the skills practiced in the exercises and
 Project components and due dates:
 
 1. Project proposal + initial analysis (10 pts)
-   - Due Sunday, Mar 13
+   - Due Sunday, Mar 10
 2. Final presentation (20 pts)
    - Slides, etc. presented during the last week of class.
 3. github.io project page (45 pts)
-   - Due Monday, May 9 (first day of Finals week)
+   - Due Monday, May 6 (first day of Finals week)
 
 ### Self-Reliance, Collaboration, and Academic Integrity
 

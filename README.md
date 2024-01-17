@@ -39,17 +39,17 @@ You should plan to bring a laptop\*\* to all class sessions.
 
 ### Assignments (15 pts)
 
-Students will develop skills gradually through exercises paced over the semester. These will typically involve writing some code and documenting it, using Jupyter Notebooks that can be shared and interactively run inside a web browser, and providing a writeup discussing the assignment and its results.
+Students will develop skills gradually through assignments paced over the semester. These will typically involve writing some code and documenting it, using Jupyter Notebooks that can be shared and interactively run inside a web browser, and providing a writeup discussing the assignment and its results.
 
 Assignments will be posted on the course GitHub repository, and students will need to pull them down from there. Assignments will generally be due one week from the day they are assigned, by 11:59pm PST. Students will submit their completed assignments by opening a pull request on the course repo.
 
 Assignments are designed to build a degree of mastery of skills and will be used as a means of ensuring that students are keeping up with the material and not falling behind. All assignments will be marked down 10% for each day late, so please submit on time.
 
-### Readings and Other Assignments (ungraded)
+### Readings and Exercises (ungraded)
 
 This course has readings associated with nearly every class meeting. These are _suggested_ readings, unless otherwise specified. You will not be quizzed on them, and they may or may not be referenced in class. They are, however, **strongly recommended**. They have been thoughtfully compiled over the many years this course has been taught, and are designed to help you get the most of this course and make your final projects a success.
 
-In addition to the readings, the Course Schedule (see below) specifies several other exercises which, unless explicitly stated, will not be collected. They will, however, be used for the following: 1) to facilitate discussion/break-out groups in class; 2) to inspire final project ideas; and 3) to ensure that you make steady progress on your final projects throughout the course of the semester. In some cases there will be class time designated for working on these ungraded exercises, but not always. It is in your own best interest, and that of your fellow students, that you keep up with them.
+In addition to the readings, the Course Schedule (see below) specifies several other **exercises** which, unless explicitly stated, will not be collected. They will, however, be used for the following: 1) to facilitate discussion/break-out groups in class; 2) to inspire final project ideas; and 3) to ensure that you make steady progress on your final projects throughout the course of the semester. In some cases there will be class time designated for working on these ungraded exercises, but not always. It is in your own best interest, and that of your fellow students, that you keep up with them.
 
 ### Final Projects (75 pts)
 

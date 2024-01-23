@@ -162,7 +162,7 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Mon, Jan 22 -- Intro to the Command-line:** Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
 
   - Exercises
-    - For the CYPLAN255 GitHub repo and push your first commit.
+    - Fork the CYPLAN255 GitHub repo and push your first commit.
 
   - Readings
     - Command-line guides for [Windows](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)

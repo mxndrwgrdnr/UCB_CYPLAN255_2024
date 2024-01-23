@@ -165,7 +165,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - For the CYPLAN255 GitHub repo and push your first commit.
 
   - Readings
-    - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
+    - Command-line guides for [Windows](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
     - Sections 1.1 and 1.3 of [Pro Git](https://git-scm.com/book/en/v2) by Chacon and Straub
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 

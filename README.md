@@ -15,7 +15,7 @@ Spring 2024
 | | |
 |:--|:--|
 |**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br> Office hours (Zoom): Mon/Tues 5-6 pm -- sign-up [here](https://calendly.com/maxgardner/office-hours-individual)|
-| **GSI**| Meiqing Li / [meiqing@berkeley.edu](mailto:irenef@berkeley.edu) <br> Office hours (Zoom): Thurs 7:30-8:30 pm -- sign-up [here](https://calendly.com/meiqingli/office-hour) <br> Office hours (IRL): Fri 12-1pm, BW Rm 222|
+| **GSI**| Meiqing Li / [meiqing@berkeley.edu](mailto:irenef@berkeley.edu) <br> Office hours (Zoom): Thurs 7:30-8:30 pm -- sign-up [here](https://calendly.com/meiqingli/office-hour) <br> Office hours (IRL): Fri 12-1pm, Bauer Wurster Hall Room 222|
 |**Details**| Meeting times: Mon/Wed 6-7:30 pm <br> Meeting location: [Zoom](https://berkeley.zoom.us/j/93655092809) <br> Course website: [https://bcourses.berkeley.edu/courses/1532651](https://bcourses.berkeley.edu/courses/1532651) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024](https://github.com/mxndrwgrdnr/UCB_CYPLAN255_2024) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%) <br> Letter grade scale: 0-59% F, 60-69% D, 70-79% C, 80-89% B, 90-100% A|
 
 ### Overview

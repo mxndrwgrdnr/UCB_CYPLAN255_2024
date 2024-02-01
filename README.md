@@ -1,4 +1,4 @@
-# Urban Informatics and Data Visualization (CYPLAN255)
+# Urban Informatics and Data Visualization (CYPLAN255) 
 Course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2024
 
 ## Getting started
@@ -180,7 +180,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Jan 29 -- Python at the Command-line** Anaconda distro; Python vs. IPython vs. Jupyter; virtual environments; intro to the Jupyter Notebook
   - Assignments
-    - Assignment 1 released (due Sun, Feb 6) 
+    - Assignment 1 released (due Sun, Feb 4) 
  
   - Exercises
     - Re-read and work your way through "notebooks/lecture_03_intro_python_jupyter.ipynb"

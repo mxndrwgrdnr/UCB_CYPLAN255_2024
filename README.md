@@ -101,7 +101,7 @@ The following books and websites may be helpful resources, and we will draw mate
 - **Adhikari, Ani and John DeNero, Computational and Inferential Thinking, 2019**([https://inferentialthinking.com](https://inferentialthinking.com/))
   - Online textbook developed for Berkeley&#39;s Foundations of Data Science class.
 
-- **Downey, Allen, Think Python, 2nd Edition, O&#39;Reilly Media, 2015**([https://learning-python.com/about-lp5e.html](https://learning-python.com/about-lp5e.html))
+- **Downey, Allen, Think Python, 2nd Edition, O&#39;Reilly Media, 2015**([https://greenteapress.com/wp/think-python-2e/))
   - Introduction to programming using Python. All the material is online.
 
 - **Foster, Ian, et al., Big Data and Social Science, CRC Press, 2017**

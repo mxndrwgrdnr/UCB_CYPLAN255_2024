@@ -101,7 +101,7 @@ The following books and websites may be helpful resources, and we will draw mate
 - **Adhikari, Ani and John DeNero, Computational and Inferential Thinking, 2019**([https://inferentialthinking.com](https://inferentialthinking.com/))
   - Online textbook developed for Berkeley&#39;s Foundations of Data Science class.
 
-- **Downey, Allen, Think Python, 2nd Edition, O&#39;Reilly Media, 2015**([https://learning-python.com/about-lp5e.html](https://learning-python.com/about-lp5e.html))
+- **Downey, Allen, Think Python, 2nd Edition, O&#39;Reilly Media, 2015**([https://greenteapress.com/wp/think-python-2e/))
   - Introduction to programming using Python. All the material is online.
 
 - **Foster, Ian, et al., Big Data and Social Science, CRC Press, 2017**
@@ -231,8 +231,7 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Mon, Feb 19** _NO CLASS_ _(President&#39;s Day)_
   - Exercises
     - Spend 2-3 hours working through notebooks 7 and 8 on your own
-  - Assignments
-    - Assignment 3 released (due Tues, Feb 27)
+  
 
 - **Wed, Feb 21 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
@@ -243,6 +242,9 @@ The topics covered by this course are organized into the following seven (7) mod
     - Chapter 1 of _Envisioning Information_ (Tufte, 1990)
     - Chapter 9 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
     - [Seaborn](https://seaborn.pydata.org/tutorial.html) tutorial/documentation
+   
+  - Assignments
+    - Assignment 3 released (due Tues, Feb 27)
 
 - **Mon, Feb 26 -- Data Visualization Pt. II:** Interactive plots, widgets, and apps.
 
@@ -278,7 +280,11 @@ The topics covered by this course are organized into the following seven (7) mod
 
 #### MODULE 5: WORKING WITH GEOSPATIAL DATA
 
-- **Wed, Mar 6 -- Intro to Geospatial Data Analysis:** Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
+- **Wed, Mar 6 -- Special Topics I: Visualizing Transit Data**
+  - Guest speaker: Kuan Butts (Mapbox)
+
+
+- **Mon, Mar 11 -- Intro to Geospatial Data Analysis:** Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
   - Assignments
     - Keep working on your project proposal analyses.
 
@@ -290,22 +296,23 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://wiki.osmfoundation.org/wiki/Main\_Page](https://wiki.osmfoundation.org/wiki/Main_Page)
     - [https://tasks.hotosm.org/learn/quickstart](https://tasks.hotosm.org/learn/quickstart)
 
-- **Mon, Mar 11 -- FOSS tools for Geospatial Data Analysis:** Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
+- **Wed, Mar 13 -- Real-world Data Analysis: Equitable Bike/Ped Planning**
+
+  - Guest speaker: Mike Alston (Kittleson)
+
+
+- **Mon, Mar 18 -- FOSS tools for Geospatial Data Analysis:** Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
 
   - Readings
     - [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
     - [https://www.osgeo.org/about/what-is-open-source/](https://www.osgeo.org/about/what-is-open-source/)
     - [https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html](https://macwright.com/2012/10/31/gis-with-python-shapely-fiona.html)
 
-- **Wed, Mar 13 -- Raster data, Remote Sensing, and Google Earth Engine:**
+-----
 
-  - Guest speaker: Meiqing!
+#### MODULE 6: VISUALIZING GEOSPATIAL DATA
 
-  - Readings
-    - TBD
-
-
-- **Mon, Mar 18 -- Intro to Network Analysis:** Graph theory; GTFS; Python tools for working with networks
+- **Wed, Mar 20 -- Intro to Network Analysis:** Graph theory; GTFS; Python tools for working with networks
 
   - Readings
     - Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
@@ -314,28 +321,27 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://www.mapzen.com/blog/animating-transitland/](https://www.mapzen.com/blog/animating-transitland/)
     - Li, Yang, and Wei &quot;David&quot; Fan. &quot;Modeling and evaluating public transit equity and accessibility by integrating general transit feed specification data: Case study of the City of Charlotte.&quot; _Journal of Transportation Engineering, Part A: Systems_ 146.10 (2020): 04020112. Available [here](https://ascelibrary.org/doi/pdf/10.1061/JTEPBS.0000426?casa_token=FXHaQKmwO5MAAAAA:u4NJhaPXXdCbBEut0qdg7dd1d3Bahu6ygF83dWSOU2eBih0S3PrYtvEc7F11p-a7SNk7sKwg).
 
------
+- **Mon, Mar 25 --** _NO CLASS (🏄 Spring Break 🏄)_
 
-#### MODULE 6: VISUALIZING GEOSPATIAL DATA
+- **Wed, Mar 27 --** _NO CLASS (🏄 Spring Break 🏄)_
 
-- **Wed, Mar 20 -- Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
+- **Mon, Apr 1 -- Effective Communication of Spatial Data:** Types of geospatial visualizations; color theory; common pitfalls of cartographic representation
 
   - Readings
     - [https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
     - [https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
     - Wong, David WS. &quot;The modifiable areal unit problem (MAUP).&quot; _WorldMinds: Geographical perspectives on 100 problems_. Springer, Dordrecht, 2004. 571-575. [https://doi.org/10.1016/B978-008044910-4.00475-2](https://sci-hubtw.hkvisa.net/10.1016/b978-008044910-4.00475-2)
 
-- **Mon, Mar 25 --** _NO CLASS (🏄 Spring Break 🏄)_
-
-- **Wed, Mar 27 --** _NO CLASS (🏄 Spring Break 🏄)_
-
-- **Mon, Apr 1 -- Building Static Maps in Python:** Survey of Python libraries for plotting geospatial data on a map
+- **Wed, Apr 3 -- Building Static Maps in Python:** Survey of Python libraries for plotting geospatial data on a map
 
   - Readings
     - Norwood, Carla; Cumming, Gabriel (2012). Making Maps That Matter: Situating GIS within Community Conversations about Changing Landscapes. Cartographica: The International Journal for Geographic Information and Geovisualization, 47(1), 2–17. [doi:10.3138/carto.47.1.2](https://sci-hubtw.hkvisa.net/10.3138/carto.47.1.2)
     - Chapter [5](https://geographicdata.science/book/notebooks/05_choropleth.html) of Geographic Data Science with Python
+-----
 
-- **Wed, Apr 3 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
+#### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
+
+- **Mon, Apr 8 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
   - Exercises
     - Work through the bonus notebook on visualizing big geo data
@@ -347,22 +353,12 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
     - [https://shaunastbury.com/creating-a-dot-density-map/](https://shaunastbury.com/creating-a-dot-density-map/)
------
 
-#### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
-
-- **Mon, Apr 8 -- Causal Inference Methods in Urban Science:** Deep dive into two examples from the recent literature
-  - Readings
-    - Greenstone, M. & Gallagher, J. _Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program_. No. w11790. National Bureau of Economic Research, 2005. Available [here](https://www.nber.org/system/files/working_papers/w11790/w11790.pdf).
-    - Lawrence, D.F. et al. _Stepping towards causation: Do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?_ Social Science and Medicine, 2007. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0277953607003139?casa_token=SaY3vv_H_2AAAAAA:uXwwx-tJd2Tp5cR5E89wXPQbtLXvNDudyf8mI00mzt_op2MbIJRc5MXjApn7-KCZnbHgsMUq)
-    - Krizek, Kevin. _Residential Relocation and Changes in Urban Travel: Does Neighborhood-Scale Urban Form Matter?_ Journal of the American Planning Association, 2003. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/01944360308978019?casa_token=F6HCUW4F7DgAAAAA:oOXwalykvP1s5fvkwZBI7BtU8qP0YhE9uygGGYEThdbdBVLWE8m_NqMjSWd26cnYY4vgPpJ_Wz0).
-    - Gardner, Max. _The Effect of Rent Control on Eviction Rates: Causal Evidence from San Francisco_. Housing Policy Debate, 2022. Available [here](https://www.tandfonline.com/doi/pdf/10.1080/10511482.2022.2099932?casa_token=cBZenfGAdZYAAAAA:FUNjQkjoFEQTXG2vzk5meFxRyU0_JHBH_fylqOOv9Q6uKdXGGPv8hsmwT0gNbVYT6JIKfAB5zww).
-
-- **Wed, Apr 10 -- Special Topics I: Visualizing Transit Data**
-  - Guest speaker: TBD
+- **Wed, Apr 10 -- Raster data, Remote Sensing, and Google Earth Engine:**
+  - Guest speaker: Meiqing Li!
   
 - **Mon, Apr 15 -- Special Topics II: Geospatial Data Activism**
-  - Guest speaker: TBD
+  - Guest speaker: Erin McElroy and Mary Shi (Anti-Eviction Mapping Project)
 
 - **Wed, Apr 17 -- Presentations I**
 

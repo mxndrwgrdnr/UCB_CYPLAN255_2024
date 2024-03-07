@@ -1,0 +1,4 @@
+/Volumes/Emmalina_external/CAPSTONE/Bay_Area/SMC/Stanford-2021-inequityrisk-bayarea-master-Results/building_footprints_impacted1.shp
+/Volumes/Emmalina_external/CAPSTONE/Bay_Area/SMC/Stanford-2021-inequityrisk-bayarea-master-Results/Results/summaryStatsAAL.csv
+/Volumes/Emmalina_external/CAPSTONE/Bay_Area/SMC/_cleaned_smc_parcels.shp
+/Volumes/Emmalina_external/CAPSTONE/Bay_Area/SMC/smc_parcel_use_codes.csv

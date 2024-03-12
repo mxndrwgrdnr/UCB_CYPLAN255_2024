@@ -1,0 +1,32 @@
+Category ,Analytical Domain,Increase in Monsoon Precipitation(%),Decreased in Monsoon Precipitation(%),No change in Monsoon Precipitation(%)
+Urban/Rural,Urban,3.56,91.81,4.63
+Urban/Rural,Rural,3.43,90.97,5.6
+Ecological Belt,Mountain   ,15.29,75.06,9.65
+Ecological Belt,Hill   ,3.77,87.11,9.12
+Ecological Belt,Terai   ,1.14,98.07,0.79
+Eco-Development Region,Eastern Mountain ,29.48,39.12,31.41
+Eco-Development Region,Eastern Hill ,6.04,86.59,7.38
+Eco-Development Region,Eastern Terai ,1.09,97.81,1.11
+Eco-Development Region,Central Mountain,22.37,72.5,5.13
+Eco-Development Region,Central Hill ,2.26,96.15,1.6
+Eco-Development Region,Central Terai ,0.56,99.24,0.2
+Eco-Development Region,Western Mountain  ,2.2,77.8,20
+Eco-Development Region,Western Hill,3.93,72.47,23.6
+Eco-Development Region,Western Terai ,0.41,98.34,1.24
+Eco-Development Region,Mid-western Mountain   ,0,100,0
+Eco-Development Region,Mid-western Hill   ,4.31,91.87,3.82
+Eco-Development Region,Mid-western Terai ,4.08,94.77,1.15
+Eco-Development Region,Far-western Mountain   ,0.46,99.54,0
+Eco-Development Region,Far-western Hill   ,2.21,96.97,0.81
+Eco-Development Region,Far-western Terai   ,1.69,97.11,1.2
+Eco-Development Region,Kathmandu Valley ,3.69,92.23,4.08
+NAPA Combined Vulnerability Index,Very High ,4.38,93.85,1.78
+NAPA Combined Vulnerability Index,High ,4.99,91.48,3.53
+NAPA Combined Vulnerability Index,Moderate ,2.64,84.58,12.78
+NAPA Combined Vulnerability Index,Low,2.88,94.54,2.57
+NAPA Combined Vulnerability Index,Very Low,8.03,90.04,1.92
+Bio-Climatic Zone,Tropical ,1.61,95.4,3
+Bio-Climatic Zone,Sub-tropical ,6.74,85.07,8.18
+Bio-Climatic Zone,Temperate ,3.57,82.12,14.32
+Bio-Climatic Zone,Sub-alpine,0,80,20
+Country,Nepal,3.47,91.22,5.31
